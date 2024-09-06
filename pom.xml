@@ -44,7 +44,7 @@
 		<dependency>
 			<groupId>org.janusgraph</groupId>
 			<artifactId>janusgraph-es</artifactId>
-			<version>0.3.2</version>
+			<version>0.6.5-20231118-145611.aefbc55</version>
 		</dependency>
 		<dependency>
 			<groupId>org.projectlombok</groupId>
