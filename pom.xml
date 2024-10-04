@@ -26,7 +26,7 @@
 		<dependency>
 			<groupId>org.janusgraph</groupId>
 			<artifactId>janusgraph-core</artifactId>
-			<version>0.3.2</version>
+			<version>1.0.1-20231115-140735.93394de</version>
 		</dependency>
 		<!-- 连接JanusGraph Server Java所需依赖 -->
 		<dependency>
